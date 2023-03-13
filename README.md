@@ -7,11 +7,8 @@ This is a Python script that demonstrates a cross-site scripting (XSS) attack on
 
 To use this script, you need to have Python 3 and the requests and BeautifulSoup libraries installed on your machine. You can install these libraries using pip:
 
-Copy code
-
-`pip install requests 📦
-
-pip install beautifulsoup4 🎨` 
+`pip install requests 📦`
+`pip install beautifulsoup4 🎨`
 
 ## 🎬 Usage
 
